@@ -4,7 +4,7 @@ void add( int a, int b)
 {
     cout<< "sum = " << (a+b);
 }
-void add(double a ,double b);
+void add (double a ,double b)
 {
     cout<< endl << "sum = " << (a+b);
 }
