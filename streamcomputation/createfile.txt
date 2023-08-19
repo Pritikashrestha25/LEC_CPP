@@ -1,0 +1,2 @@
+cd "c:\Users\len\Desktop\LEC_CPP\streamcomputation\" ; if ($?) { g++ io_with_files.cpp -o io_with_f
+cd "c:\Users\len\Desktop\LEC_CPP\streamcomputation\" ; if ($?) { g++ io_with_files.cpp -o io_with_f
